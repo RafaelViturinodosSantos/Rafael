@@ -1,0 +1,11 @@
+C:\Users\rafa_\Desktop\C#\Programas\ConversaoDeTempo\ConversaoDeTempo\bin\Debug\netcoreapp2.1\ConversaoDeTempo.deps.json
+C:\Users\rafa_\Desktop\C#\Programas\ConversaoDeTempo\ConversaoDeTempo\bin\Debug\netcoreapp2.1\ConversaoDeTempo.runtimeconfig.json
+C:\Users\rafa_\Desktop\C#\Programas\ConversaoDeTempo\ConversaoDeTempo\bin\Debug\netcoreapp2.1\ConversaoDeTempo.runtimeconfig.dev.json
+C:\Users\rafa_\Desktop\C#\Programas\ConversaoDeTempo\ConversaoDeTempo\bin\Debug\netcoreapp2.1\ConversaoDeTempo.dll
+C:\Users\rafa_\Desktop\C#\Programas\ConversaoDeTempo\ConversaoDeTempo\bin\Debug\netcoreapp2.1\ConversaoDeTempo.pdb
+C:\Users\rafa_\Desktop\C#\Programas\ConversaoDeTempo\ConversaoDeTempo\obj\Debug\netcoreapp2.1\ConversaoDeTempo.csprojAssemblyReference.cache
+C:\Users\rafa_\Desktop\C#\Programas\ConversaoDeTempo\ConversaoDeTempo\obj\Debug\netcoreapp2.1\ConversaoDeTempo.csproj.CoreCompileInputs.cache
+C:\Users\rafa_\Desktop\C#\Programas\ConversaoDeTempo\ConversaoDeTempo\obj\Debug\netcoreapp2.1\ConversaoDeTempo.AssemblyInfoInputs.cache
+C:\Users\rafa_\Desktop\C#\Programas\ConversaoDeTempo\ConversaoDeTempo\obj\Debug\netcoreapp2.1\ConversaoDeTempo.AssemblyInfo.cs
+C:\Users\rafa_\Desktop\C#\Programas\ConversaoDeTempo\ConversaoDeTempo\obj\Debug\netcoreapp2.1\ConversaoDeTempo.dll
+C:\Users\rafa_\Desktop\C#\Programas\ConversaoDeTempo\ConversaoDeTempo\obj\Debug\netcoreapp2.1\ConversaoDeTempo.pdb
