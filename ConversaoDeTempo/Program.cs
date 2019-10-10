@@ -1,20 +1,31 @@
 ﻿using System;
+using System.Globalization;
 
 namespace ConversaoDeTempo {
     class Program {
         static void Main(string[] args) {
 
-            Console.WriteLine("Informe a quantidade de segundos");
-            int n = int.Parse(Console.ReadLine());
+            NovoSaldo c;
 
-            int horas = n / 3600;
-            int resto = n % 3600;
-            int minutos = resto / 60;
-            int segundos = resto % 60;
+            Console.WriteLine("Informe seu nome");
+             string nome = Console.ReadLine();
 
-            Console.WriteLine("Os segundos convertidos para horas:minutos:segundos é: " + horas + ":" + minutos + ":" + segundos);
+            Console.WriteLine("Informe a conta");
+            int conta = int.Parse(Console.ReadLine());
+
+            Console.WriteLine("Informe o cpf");
+            long cpf = int.Parse(Console.ReadLine());
+
+            Console.WriteLine("Informe seu saldo");
+            double saldo = int.Parse(Console.ReadLine(), CultureInfo.InvariantCulture);
+
+            c = new NovoSaldo(nome,conta,cpf,saldo);
+            Console.WriteLine("Informe o valor acrescentado de saldo");
+            int saldo_novo = int.Parse(Console.ReadLine());
+            c.ContaBancaria(saldo_novo);
+
+            Console.WriteLine(c);
             Console.ReadLine();
-
         }
     }
 }
